@@ -1,0 +1,10 @@
+10
+i Arjun
+i Arun
+i Rupa
+p
+d Arjun
+p
+d Arun
+p
+t
